@@ -6,3 +6,4 @@ BBC Micro conversion of *The Adventure of Hog Jowl Mansion* by Jon J. Waples.
 
 The game was originally published as a BASIC listing (source code) for the TRS-80 Model 1 and Model 3 computers in 80-U.S. Journal in January 1982. [More details](http://www.solutionarchive.com/game/id%2C7098/Adventure+of+Hog+Jowl+Mansion%2C+The.html) at CASA.
 
+I [found](https://www.planetemu.net/roms/tandy-radio-shack-trs-80-model-1?page=H) a copy of the game, extracted the listing, and converted it to BBC BASIC for the BBC Micro computer.
