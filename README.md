@@ -8,4 +8,4 @@ The game was originally published as a BASIC listing (source code) for the TRS-8
 
 I found [a copy](https://www.planetemu.net/roms/tandy-radio-shack-trs-80-model-1?page=H) of the game, extracted the listing, and [converted](https://github.com/ahope1/hog-jowl-mansion/commit/fb6d280bb41aa219dfbadd9d5b914f95266fa2fa) it to BBC BASIC for the BBC Micro computer.
 
-*hogjowl.ssd* is a disc-image for BBC Micro computers and emulators.
+*hogjowl.ssd* is a disc-image that can be used with BBC Micro computers and emulators.
