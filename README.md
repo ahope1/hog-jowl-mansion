@@ -8,4 +8,4 @@ The text adventure game *The Adventure of Hog Jowl Mansion*, written by Jon J. W
 
 I found [a copy](https://www.planetemu.net/roms/tandy-radio-shack-trs-80-model-1?page=H) of the game, extracted the listing, and [converted](https://github.com/ahope1/hog-jowl-mansion/compare/a86ab93...9199b71#diff-ffc3daad39ba03585b6331dac0ca7cb587a5455c429b821525ee5ca6270bc334) it to BBC BASIC for the BBC Micro computer.
 
-*hogjowl.ssd* is a disc-image that can be used with BBC Micro computers and emulators.
+The file *hogjowl.ssd* is a disc-image that can be used with BBC Micro computers and emulators.
