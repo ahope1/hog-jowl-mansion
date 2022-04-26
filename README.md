@@ -2,7 +2,7 @@
 
 BBC Micro conversion of *The Adventure of Hog Jowl Mansion*.
 
-[**>> Play my BBC Micro version online <<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/hog-jowl-mansion/main/hogjowl.ssd)
+[**>> Play the BBC Micro version online <<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/hog-jowl-mansion/main/hogjowl.ssd)
 
 The text adventure game *The Adventure of Hog Jowl Mansion*, written by Jon J. Waples, was originally published as a BASIC listing (source code) for the TRS-80 Model 1 and Model 3 computers in the magazine *80-U.S. Journal* in January 1982. [More details](http://www.solutionarchive.com/game/id%2C7098/Adventure+of+Hog+Jowl+Mansion%2C+The.html) at CASA.
 
